@@ -1,0 +1,42 @@
+{
+  "tripName": "Australia Tour",
+  "traveler": {
+    "name": "Al Beback",
+    "contact": {
+      "email": "T-800@sky.net",
+      "phone": "555-555-2029"
+    }
+  },
+  "destination": [
+    {
+      "location": "Sydney, AUS",
+      "arrivalDate": "1984-05-12",
+      "departureDate": "1984-05-16",
+      "activities": [
+        {
+          "title": "Sydney Opera House",
+          "time": "9:00 AM"
+        },
+        {
+          "title": "Harbour Bridge",
+          "time": "1:00PM"
+        }
+      ]
+    },
+    {
+      "location": "Cairns, AUS",
+      "arrivalDate": "1984-05-16",
+      "departureDate": "1984-05-20",
+      "activities": [
+        {
+          "title": "Great Barrier Reef",
+          "time": "11:00 AM"
+        },
+        {
+          "title": "Daintree Rainforest",
+          "time": "10:00 AM"
+        }
+      ]
+    }
+  ]
+}
