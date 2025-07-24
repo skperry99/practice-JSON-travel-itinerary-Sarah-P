@@ -1,40 +1,40 @@
 {
   "tripName": "Australia Tour",
   "traveler": {
-    "name": "Al Beback",
+    "name": "Alice Brown",
     "contact": {
-      "email": "T-800@sky.net",
-      "phone": "555-555-2029"
+      "email": "ab@yahoo.com",
+      "phone": "555-123-4567"
     }
   },
   "destination": [
     {
       "location": "Sydney, AUS",
-      "arrivalDate": "1984-05-12",
-      "departureDate": "1984-05-16",
+      "arrivalDate": "2025-05-12",
+      "departureDate": "2025-05-16",
       "activities": [
         {
           "title": "Sydney Opera House",
-          "time": "9:00 AM"
+          "time": "2:00 PM"
         },
         {
           "title": "Harbour Bridge",
-          "time": "1:00PM"
+          "time": "4:00PM"
         }
       ]
     },
     {
       "location": "Cairns, AUS",
-      "arrivalDate": "1984-05-16",
-      "departureDate": "1984-05-20",
+      "arrivalDate": "2025-05-16",
+      "departureDate": "2025-05-20",
       "activities": [
         {
           "title": "Great Barrier Reef",
-          "time": "11:00 AM"
+          "time": "8:00 AM"
         },
         {
           "title": "Daintree Rainforest",
-          "time": "10:00 AM"
+          "time": "1:00 PM"
         }
       ]
     }
